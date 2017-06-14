@@ -1,0 +1,9 @@
+D:\多玛乐园\netPING\netPING\netPING\bin\Release\netPING.exe
+D:\多玛乐园\netPING\netPING\netPING\bin\Release\netPING.pdb
+D:\多玛乐园\netPING\netPING\netPING\obj\Release\netPING.netPING.resources
+D:\多玛乐园\netPING\netPING\netPING\obj\Release\netPING.ProjectInstaller.resources
+D:\多玛乐园\netPING\netPING\netPING\obj\Release\netPING.csproj.GenerateResource.Cache
+D:\多玛乐园\netPING\netPING\netPING\obj\Release\netPING.exe
+D:\多玛乐园\netPING\netPING\netPING\obj\Release\netPING.pdb
+D:\多玛乐园\netPING\netPING\setup\bin\Release\netPING.exe
+D:\多玛乐园\netPING\netPING\setup\bin\Release\netPING.pdb

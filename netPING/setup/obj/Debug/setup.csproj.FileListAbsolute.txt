@@ -1,0 +1,4 @@
+D:\多玛乐园\netPING\netPING\setup\bin\Debug\setup.exe
+D:\多玛乐园\netPING\netPING\setup\bin\Debug\setup.pdb
+D:\多玛乐园\netPING\netPING\setup\obj\Debug\setup.exe
+D:\多玛乐园\netPING\netPING\setup\obj\Debug\setup.pdb
