@@ -1,7 +1,7 @@
 # NetPing 0.1
 功能：网络测试，Ping命令，日志记录，短信报警，windows服务自动安装
 # 
-点击setup.exe安装服务
+点击setup.exe安装服务（netPING.exe需与setup.exe位于同一目录下）
 
 1.在HKEY_LOCAL_MACHINE\SOFTWARE下名为netPING的注册表项设置相关参数
 
